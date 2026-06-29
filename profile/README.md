@@ -9,8 +9,8 @@ Project structure analysis and development logging for AI agents.
 
 | Skill | Description |
 |-------|-------------|
+| [project-onboard](https://github.com/Zions-store/project-ledger/tree/master/project-onboard) | Auto-detect project type and generate AGENTS.md — 11 rule packs, zero dependencies |
 | [project-docs](https://github.com/Zions-store/project-ledger/tree/master/project-docs) | Three-document project knowledge system (AGENTS.md + PROJECT_STATE.md + DEVLOG.md) |
-| project-onboard | Auto-detect project type and generate AGENTS.md — [Original repo](https://github.com/ZionXiaoxiSuOGLocGo/project-onboard) |
 
 ## License
 
